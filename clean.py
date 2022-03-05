@@ -43,3 +43,6 @@ sorted(users.age.unique())
 users.age = users.age.astype('int32')
 users.dtypes
 
+users.columns
+books.columns
+
